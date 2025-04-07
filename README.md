@@ -1,5 +1,6 @@
 # Visual-Counting-Ability-of-Tiny-VLMs
 test task for Huawei
+valid link to see notebook: https://colab.research.google.com/drive/19SAcaPe2DkdjzWs-Az4HPnYZIm4UuLr9
 
 During solving test task next actions were made:
 
